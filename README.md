@@ -25,17 +25,22 @@ Each query is clearly documented to explain its logic, business use case, and th
 - Filtering: `BETWEEN`, date ranges, etc
 - MySQL equivalents: `DATE_FORMAT()`, `DATEDIFF()`, `TIMESTAMPDIFF()`, etc.
 
+---
+
 ##  How to Use
 
 1. **Clone the repo:**
-git clone https://github.com/Sudais-shah/sales-time-intelligence-sql-case-study.git
-cd sales-time-sql-case-study
+- git clone https://github.com/Sudais-shah/sales-time-intelligence-sql-case-study.git
+
+---
 
 ## Learning Outcomes
- . Mastered time/date functions in PostgreSQL and MySQL
- . Built queries for real-world analytics (e.g., trends, comparisons)
- . Improved query documentation and code structure
- . Created a reusable SQL reference for future projects
+ - Mastered time/date functions in PostgreSQL and MySQL
+ - Built queries for real-world analytics (e.g., trends, comparisons)
+ - Improved query documentation and code structure
+ - Created a reusable SQL reference for future projects
+
+---
 
 ## Author
 Sudais Shah
